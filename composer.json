@@ -7,12 +7,12 @@
         "repositories": [
                 {
                         "type": "vcs",
-                        "url": "https://github.com/shirtjs/php-proxy"
+                        "url": "I dont know what this is supposed to be so I just filled this out with filler text."
                 }
         ],
         "require": {
-                "shirtjs/php-proxy": "dev-master",
-                "athlon1600/php-proxy-plugin-bundle": "dev-master",
+                "what is this/what is this as well": "dev-master",
+                "what is this/what is this": "dev-master",
                 "ext-mbstring": "^7.2",
                 "ext-gd": "^7.2",
                 "ext-sqlite3": "^7.2",
